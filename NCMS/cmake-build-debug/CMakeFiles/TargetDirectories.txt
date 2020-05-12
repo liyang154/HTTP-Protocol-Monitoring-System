@@ -1,0 +1,3 @@
+/root/CLionProjects/iptest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/iptest/cmake-build-debug/CMakeFiles/iptest.dir
+/root/CLionProjects/iptest/cmake-build-debug/CMakeFiles/edit_cache.dir
